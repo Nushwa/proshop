@@ -1,0 +1,18 @@
+.navBar {
+  background-color: rgba(83, 75, 84, 0.799);
+  /* position: fixed; */
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  align-items: center;
+  transition: 0.6s;
+  z-index: 100000;
+}
+
+.navTitle {
+  font-size: xx-large;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
